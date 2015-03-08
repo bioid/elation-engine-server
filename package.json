@@ -1,0 +1,15 @@
+{
+  "name": "elation-engine-server",
+  "version": "0.0.1",
+  "description": "websocket server for elation-engine networking",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brandon hinshaw <bkhinshaw@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "ws": "~0.7.1",
+    "express": "~4.12.2"
+  }
+}
